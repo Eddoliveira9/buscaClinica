@@ -7,13 +7,14 @@ import android.os.Bundle
 import android.widget.Button
 import android.widget.ImageView
 import kotlinx.android.synthetic.main.activity_cadastro_user.*
+import com.google.firebase.auth.FirebaseAuth
 
 class CadastroUser : AppCompatActivity() {
 
 
 
     //pegar instancia do firebase, se for fazer tirar
-    //private var mAuth : FirebaseAuth? = null
+    private var mAuth : FirebaseAuth? = null
 
 
     override fun onCreate(savedInstanceState: Bundle?) {
