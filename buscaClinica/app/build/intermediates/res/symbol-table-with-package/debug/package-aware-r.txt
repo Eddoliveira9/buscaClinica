@@ -721,12 +721,12 @@ id barrier
 id beginning
 id blocking
 id bottom
-id btnCancelar
-id btnPedirFoto
-id btnSalvarUser
 id btnVoltar
 id btn_cadastrar
+id btn_cancelar
 id btn_login
+id btn_pedir_foto
+id btn_salvar_user
 id buttonPanel
 id cancel_action
 id center
@@ -854,8 +854,11 @@ id titleDividerNoCustom
 id title_template
 id top
 id topPanel
-id txt_login_ok
+id txt_email
+id txt_idade
+id txt_nome_completo
 id txt_senha
+id txt_sexo
 id uniform
 id up
 id useLogo
@@ -900,7 +903,6 @@ layout abc_tooltip
 layout activity_cadastro_user
 layout activity_detalhar_user
 layout activity_login
-layout activity_login_sucess
 layout notification_action
 layout notification_action_tombstone
 layout notification_media_action

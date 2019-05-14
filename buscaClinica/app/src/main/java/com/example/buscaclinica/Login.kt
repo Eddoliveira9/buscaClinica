@@ -43,6 +43,6 @@ class Login : AppCompatActivity() {
 
     fun cadastrarView(){
 
-        setContentView(R.layout.activity_cadastro_user)
+        startActivity(Intent(applicationContext, CadastroUser::class.java))
     }
 }

@@ -13,7 +13,7 @@
             android:layout_height="15dp"/>
 
     <EditText
-            android:id="@+id/editTextNomeCompleto"
+            android:id="@+id/txt_nome_completo"
             android:hint="Nome Completo"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
@@ -25,7 +25,7 @@
             android:layout_height="20dp"/>
 
     <EditText
-            android:id="@+id/editTextEmail"
+            android:id="@+id/txt_email"
             android:hint="Email"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
@@ -37,7 +37,7 @@
             android:layout_height="20dp"/>
 
     <EditText
-            android:id="@+id/editTextIdade"
+            android:id="@+id/txt_idade"
             android:hint="Idade"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
@@ -48,7 +48,7 @@
             android:layout_height="20dp"/>
 
     <EditText
-            android:id="@+id/editTextSexo"
+            android:id="@+id/txt_sexo"
             android:hint="Sexo"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"/>
@@ -58,7 +58,7 @@
             android:layout_height="20dp"/>
 
     <EditText
-            android:id="@+id/editTextSenha"
+            android:id="@+id/txt_senha"
             android:hint="Senha"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
@@ -68,11 +68,10 @@
             android:layout_width="match_parent"
             android:layout_height="20dp"/>
 
-    <Button android:id="@+id/btnPedirFoto"
+    <Button android:id="@+id/btn_pedir_foto"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="Foto de perfil"
-            android:onClick="clickFoto"/>
+            android:text="Foto de perfil"/>
 
 
     <ImageView
@@ -92,17 +91,15 @@
             android:orientation="horizontal"
             android:gravity="center">
 
-        <Button android:id="@+id/btnSalvarUser"
+        <Button android:id="@+id/btn_salvar_user"
                 android:layout_width="150dp"
                 android:layout_height="wrap_content"
-                android:text="Salvar"
-                android:onClick="clickConfirmar"/>
+                android:text="Salvar"/>
 
-        <Button android:id="@+id/btnCancelar"
+        <Button android:id="@+id/btn_cancelar"
                 android:layout_width="150dp"
                 android:layout_height="wrap_content"
-                android:text="Cancelar"
-                android:onClick="clickCancelar"/>
+                android:text="Cancelar"/>
 
 
     </LinearLayout>
