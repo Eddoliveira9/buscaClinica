@@ -18,6 +18,7 @@ class Login : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_login)
 
+        mAuth = FirebaseAuth.getInstance()
 
         btn_cadastrar.setOnClickListener {
             cadastrarView()
@@ -29,11 +30,13 @@ class Login : AppCompatActivity() {
     }
 
     fun login(){
-        val mAuth = FirebaseAuth.getInstance()
-        mAuth?.signInWithEmailAndPassword(textViewEmail.text.toString(),txt_senha.text.toString())
+        mAuth = FirebaseAuth.getInstance()
+        mAuth?.signInWithEmailAndPassword(txt_email_login.text.toString(),txt_senha_login.text.toString())
             ?.addOnCompleteListener(this@Login){ task ->
                 if(task.isSuccessful){
-                    startActivity(Intent(applicationContext, DetalharUser::class.java))
+                    startActivity(Intent(applicationContext, CadastroUser::class.java))
+
+                    //Toast.makeText(applicationContext, "Teste Login OK", Toast.LENGTH_LONG).show()
                 } else {
                     Toast.makeText(applicationContext,"Authentication failed.",
                         Toast.LENGTH_SHORT).show()

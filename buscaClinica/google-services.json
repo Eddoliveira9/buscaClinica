@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "191647939372",
+    "firebase_url": "https://buscaclinica-7c0d0.firebaseio.com",
+    "project_id": "buscaclinica-7c0d0",
+    "storage_bucket": "buscaclinica-7c0d0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:191647939372:android:f75fa2b0424f770d",
+        "android_client_info": {
+          "package_name": "com.example.buscaclinica"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "191647939372-v1las84v3ics6thhduov2vu0cr5ee1as.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJcuJul26IIgVvwtNaFiJzr1hRHdXA2iQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "191647939372-v1las84v3ics6thhduov2vu0cr5ee1as.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
