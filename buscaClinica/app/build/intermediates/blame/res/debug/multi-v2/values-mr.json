@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/diegolcarvalho/Documents/GitHub/Clinica/buscaClinica/buscaClinica2/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-mr/values-mr.xml",
+            "outputFile": "/Users/diegolcarvalho/Documents/GitHub/Clinica/buscaClinica/buscaClinica/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-mr/values-mr.xml",
             "map": [
                 {
                     "source": "/Users/diegolcarvalho/.gradle/caches/transforms-2/files-2.1/07a064ade899ea5b91993ebab6f9c62c/res/values-mr/values-mr.xml",

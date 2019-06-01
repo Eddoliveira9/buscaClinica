@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/diegolcarvalho/Documents/GitHub/Clinica/buscaClinica/buscaClinica2/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+            "outputFile": "/Users/diegolcarvalho/Documents/GitHub/Clinica/buscaClinica/buscaClinica/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
             "map": [
                 {
                     "source": "/Users/diegolcarvalho/.gradle/caches/transforms-2/files-2.1/9c3ebeb1310d3be73cf7ef06bb97cab2/res/values/values.xml",
@@ -61,20 +61,39 @@
                     }
                 },
                 {
-                    "source": "/Users/diegolcarvalho/Documents/GitHub/Clinica/buscaClinica/buscaClinica2/app/src/main/res/values/strings.xml",
+                    "source": "/Users/diegolcarvalho/Documents/GitHub/Clinica/buscaClinica/buscaClinica/app/src/main/res/values/styles.xml",
                     "from": {
-                        "startLines": "1",
+                        "startLines": "3",
                         "startColumns": "4",
-                        "startOffsets": "16",
-                        "endColumns": "49",
-                        "endOffsets": "61"
+                        "startOffsets": "54",
+                        "endLines": "8",
+                        "endColumns": "12",
+                        "endOffsets": "368"
                     },
                     "to": {
-                        "startLines": "377",
+                        "startLines": "385",
                         "startColumns": "4",
-                        "startOffsets": "22533",
-                        "endColumns": "49",
-                        "endOffsets": "22578"
+                        "startOffsets": "23149",
+                        "endLines": "390",
+                        "endColumns": "12",
+                        "endOffsets": "23463"
+                    }
+                },
+                {
+                    "source": "/Users/diegolcarvalho/Documents/GitHub/Clinica/buscaClinica/buscaClinica/app/src/main/res/values/colors.xml",
+                    "from": {
+                        "startLines": "4,2,3",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "153,55,102",
+                        "endColumns": "45,46,50",
+                        "endOffsets": "194,97,148"
+                    },
+                    "to": {
+                        "startLines": "153,154,155",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "7704,7750,7797",
+                        "endColumns": "45,46,50",
+                        "endOffsets": "7745,7792,7843"
                     }
                 },
                 {
@@ -97,39 +116,20 @@
                     }
                 },
                 {
-                    "source": "/Users/diegolcarvalho/Documents/GitHub/Clinica/buscaClinica/buscaClinica2/app/src/main/res/values/colors.xml",
+                    "source": "/Users/diegolcarvalho/Documents/GitHub/Clinica/buscaClinica/buscaClinica/app/src/main/res/values/strings.xml",
                     "from": {
-                        "startLines": "4,2,3",
-                        "startColumns": "4,4,4",
-                        "startOffsets": "153,55,102",
-                        "endColumns": "45,46,50",
-                        "endOffsets": "194,97,148"
+                        "startLines": "1",
+                        "startColumns": "4",
+                        "startOffsets": "16",
+                        "endColumns": "49",
+                        "endOffsets": "61"
                     },
                     "to": {
-                        "startLines": "153,154,155",
-                        "startColumns": "4,4,4",
-                        "startOffsets": "7704,7750,7797",
-                        "endColumns": "45,46,50",
-                        "endOffsets": "7745,7792,7843"
-                    }
-                },
-                {
-                    "source": "/Users/diegolcarvalho/Documents/GitHub/Clinica/buscaClinica/buscaClinica2/app/src/main/res/values/styles.xml",
-                    "from": {
-                        "startLines": "3",
+                        "startLines": "377",
                         "startColumns": "4",
-                        "startOffsets": "54",
-                        "endLines": "8",
-                        "endColumns": "12",
-                        "endOffsets": "368"
-                    },
-                    "to": {
-                        "startLines": "385",
-                        "startColumns": "4",
-                        "startOffsets": "23149",
-                        "endLines": "390",
-                        "endColumns": "12",
-                        "endOffsets": "23463"
+                        "startOffsets": "22533",
+                        "endColumns": "49",
+                        "endOffsets": "22578"
                     }
                 }
             ]

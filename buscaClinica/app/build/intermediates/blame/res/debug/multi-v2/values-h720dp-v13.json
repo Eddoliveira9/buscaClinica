@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/diegolcarvalho/Documents/GitHub/Clinica/buscaClinica/buscaClinica2/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-h720dp-v13/values-h720dp-v13.xml",
+            "outputFile": "/Users/diegolcarvalho/Documents/GitHub/Clinica/buscaClinica/buscaClinica/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-h720dp-v13/values-h720dp-v13.xml",
             "map": [
                 {
                     "source": "/Users/diegolcarvalho/.gradle/caches/transforms-2/files-2.1/5238827b379dcef6a7603f6ce8eb30b7/res/values-h720dp-v13/values-h720dp-v13.xml",

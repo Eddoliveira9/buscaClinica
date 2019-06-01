@@ -678,6 +678,8 @@ id barrier
 id beginning
 id blocking
 id bottom
+id btn_cadastro
+id btn_entrar
 id buttonPanel
 id center
 id center_horizontal
@@ -698,6 +700,8 @@ id dimensions
 id direct
 id disableHome
 id edit_query
+id edt_email
+id edt_senha
 id end
 id expand_activities_button
 id expanded_menu
@@ -785,6 +789,7 @@ id titleDividerNoCustom
 id title_template
 id top
 id topPanel
+id txv_recuperar_senha
 id uniform
 id up
 id useLogo

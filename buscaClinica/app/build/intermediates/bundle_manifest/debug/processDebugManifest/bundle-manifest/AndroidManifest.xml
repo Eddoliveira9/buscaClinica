@@ -18,11 +18,11 @@
         android:supportsRtl="true"
         android:testOnly="true"
         android:theme="@style/AppTheme" >
-        <activity android:name="com.projeto.buscaclinica.activity.LoginActivity" >
+        <activity android:name="com.projeto.buscaclinica.activity.MainActivity" >
         </activity>
         <activity android:name="com.projeto.buscaclinica.activity.splashActivity" >
         </activity>
-        <activity android:name="com.projeto.buscaclinica.activity.MainActivity" >
+        <activity android:name="com.projeto.buscaclinica.activity.LoginActivity" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 

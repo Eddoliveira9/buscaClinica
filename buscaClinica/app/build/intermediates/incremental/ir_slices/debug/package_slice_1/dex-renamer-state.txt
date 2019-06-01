@@ -1,4 +1,4 @@
-#Thu May 23 18:29:36 BRT 2019
-base.0=/Users/diegolcarvalho/Documents/GitHub/Clinica/buscaClinica/buscaClinica2/app/build/intermediates/transforms/dexMerger/debug/1
+#Sat Jun 01 18:23:28 BRT 2019
+base.0=/Users/diegolcarvalho/Documents/GitHub/Clinica/buscaClinica/buscaClinica/app/build/intermediates/transforms/dexMerger/debug/1
 path.0=classes.dex
 renamed.0=classes.dex
