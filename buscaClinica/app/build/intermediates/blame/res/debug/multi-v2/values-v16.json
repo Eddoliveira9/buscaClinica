@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/diegolcarvalho/Documents/GitHub/Clinica/buscaClinica/buscaClinica/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v16/values-v16.xml",
+            "outputFile": "/Users/diegolcarvalho/Documents/GitHub/Clinica/buscaClinica/buscaClinica2/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v16/values-v16.xml",
             "map": [
                 {
-                    "source": "/Users/diegolcarvalho/.gradle/caches/transforms-2/files-2.1/c08fafc9c7501a3a2d10cd2b131b68d7/res/values-v16/values-v16.xml",
+                    "source": "/Users/diegolcarvalho/.gradle/caches/transforms-2/files-2.1/5238827b379dcef6a7603f6ce8eb30b7/res/values-v16/values-v16.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -23,7 +23,7 @@
                     }
                 },
                 {
-                    "source": "/Users/diegolcarvalho/.gradle/caches/transforms-2/files-2.1/3b2748f1e4a330d8ed77a40220b730c3/res/values-v16/values-v16.xml",
+                    "source": "/Users/diegolcarvalho/.gradle/caches/transforms-2/files-2.1/07a064ade899ea5b91993ebab6f9c62c/res/values-v16/values-v16.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
