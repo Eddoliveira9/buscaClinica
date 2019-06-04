@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/diegolcarvalho/Documents/GitHub/Clinica/buscaClinica/buscaClinica/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-or/values-or.xml",
+            "outputFile": "C:\\Users\\Eduardo\\AndroidStudioProjects\\buscaClinica\\buscaClinica\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-or\\values-or.xml",
             "map": [
                 {
-                    "source": "/Users/diegolcarvalho/.gradle/caches/transforms-2/files-2.1/5238827b379dcef6a7603f6ce8eb30b7/res/values-or/values-or.xml",
+                    "source": "C:\\Users\\Eduardo\\.gradle\\caches\\transforms-2\\files-2.1\\939fd3fa86ee493bcbdb8540043098b3\\res\\values-or\\values-or.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -14,7 +14,7 @@
                     }
                 },
                 {
-                    "source": "/Users/diegolcarvalho/.gradle/caches/transforms-2/files-2.1/07a064ade899ea5b91993ebab6f9c62c/res/values-or/values-or.xml",
+                    "source": "C:\\Users\\Eduardo\\.gradle\\caches\\transforms-2\\files-2.1\\887b260e22487fbb8aa5ec7216c76186\\res\\values-or\\values-or.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

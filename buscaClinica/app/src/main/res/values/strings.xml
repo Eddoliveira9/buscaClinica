@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">buscaClinica</string>
+    <string name="app_ir">Avançar</string>
+    <string name="app_voltar">Retornar</string>
 </resources>
