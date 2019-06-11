@@ -6,7 +6,7 @@
         android:id="@+id/mainActivityLayout"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        tools:context=".activity.splashActivity">
+        tools:context=".activity.SplashActivity">
 
     <com.projeto.buscaclinica.components.Onboarding
             android:id="@+id/canvasOnboarding"

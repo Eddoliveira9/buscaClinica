@@ -1,4 +1,4 @@
-t
+Layout_Layout_layout_goneMarginLeft
 .ConstraintLayout_Layout_layout_goneMarginRight
 .ConstraintLayout_Layout_layout_goneMarginStart
 ,ConstraintLayout_Layout_layout_goneMarginTop
@@ -284,6 +284,10 @@ $TextAppearance_android_textColorLink
 TextAppearance_fontFamily
 TextAppearance_textAllCaps
 Toolbar
+
+Deprecated
+message
+Deprecated in Java
 Toolbar_android_gravity
 Toolbar_android_minHeight
 Toolbar_buttonGravity
@@ -327,7 +331,7 @@ $Toolbar_navigationContentDescription
 View_paddingEnd
 View_paddingStart
 
-View_theme   <
+View_theme   E
  
  
 
@@ -337,3 +341,4 @@ View_theme   <
  
  
  
+Ã 

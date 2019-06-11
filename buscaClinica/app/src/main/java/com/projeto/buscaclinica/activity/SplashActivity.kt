@@ -8,7 +8,7 @@ import com.projeto.buscaclinica.R
 import kotlinx.android.synthetic.main.activity_splash.*
 
 
-class splashActivity : AppCompatActivity() {
+class SplashActivity : AppCompatActivity() {
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
@@ -19,7 +19,7 @@ class splashActivity : AppCompatActivity() {
         buttonNext.setOnClickListener {
             canvasOnboarding.next { finish ->
                 if (finish) {
-                    val login = Intent(this@splashActivity, LoginActivity::class.java)
+                    val login = Intent(this@SplashActivity, LoginActivity::class.java)
                     startActivity(login)
                     finish()
                 }
