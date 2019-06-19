@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\Eduardo\AndroidStudioProjects\buscaClinica\buscaClinica\app\src\main\AndroidManifest.xml:2:1-27:12
-INJECTED from C:\Users\Eduardo\AndroidStudioProjects\buscaClinica\buscaClinica\app\src\main\AndroidManifest.xml:2:1-27:12
-INJECTED from C:\Users\Eduardo\AndroidStudioProjects\buscaClinica\buscaClinica\app\src\main\AndroidManifest.xml:2:1-27:12
-INJECTED from C:\Users\Eduardo\AndroidStudioProjects\buscaClinica\buscaClinica\app\src\main\AndroidManifest.xml:2:1-27:12
+ADDED from C:\Users\Eduardo\AndroidStudioProjects\buscaClinica\buscaClinica\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from C:\Users\Eduardo\AndroidStudioProjects\buscaClinica\buscaClinica\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from C:\Users\Eduardo\AndroidStudioProjects\buscaClinica\buscaClinica\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from C:\Users\Eduardo\AndroidStudioProjects\buscaClinica\buscaClinica\app\src\main\AndroidManifest.xml:2:1-29:12
 MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\Eduardo\.gradle\caches\transforms-2\files-2.1\939fd3fa86ee493bcbdb8540043098b3\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.core:core-ktx:1.0.2] C:\Users\Eduardo\.gradle\caches\transforms-2\files-2.1\bb55685cceda4ab21bfced10c8b86846\AndroidManifest.xml:2:1-7:12
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Eduardo\.gradle\caches\transforms-2\files-2.1\2859e1870c9c4a16e73a1086874b9ab9\AndroidManifest.xml:2:1-11:12
@@ -32,25 +32,25 @@ MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Eduardo\.gradle\
 MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Eduardo\.gradle\caches\transforms-2\files-2.1\4cc1265f4272020350a0485b3954d4ae\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Eduardo\.gradle\caches\transforms-2\files-2.1\7076484eda83872ab5fda514a2b8c5ca\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Eduardo\.gradle\caches\transforms-2\files-2.1\aca3e99e64349a9cbf55902872d3aa99\AndroidManifest.xml:17:1-22:12
-INJECTED from C:\Users\Eduardo\AndroidStudioProjects\buscaClinica\buscaClinica\app\src\main\AndroidManifest.xml:2:1-27:12
-INJECTED from C:\Users\Eduardo\AndroidStudioProjects\buscaClinica\buscaClinica\app\src\main\AndroidManifest.xml:2:1-27:12
-INJECTED from C:\Users\Eduardo\AndroidStudioProjects\buscaClinica\buscaClinica\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from C:\Users\Eduardo\AndroidStudioProjects\buscaClinica\buscaClinica\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from C:\Users\Eduardo\AndroidStudioProjects\buscaClinica\buscaClinica\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from C:\Users\Eduardo\AndroidStudioProjects\buscaClinica\buscaClinica\app\src\main\AndroidManifest.xml:2:1-29:12
 	package
 		ADDED from C:\Users\Eduardo\AndroidStudioProjects\buscaClinica\buscaClinica\app\src\main\AndroidManifest.xml:3:11-45
 		INJECTED from C:\Users\Eduardo\AndroidStudioProjects\buscaClinica\buscaClinica\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\Eduardo\AndroidStudioProjects\buscaClinica\buscaClinica\app\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from C:\Users\Eduardo\AndroidStudioProjects\buscaClinica\buscaClinica\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Eduardo\AndroidStudioProjects\buscaClinica\buscaClinica\app\src\main\AndroidManifest.xml:2:1-27:12
+		ADDED from C:\Users\Eduardo\AndroidStudioProjects\buscaClinica\buscaClinica\app\src\main\AndroidManifest.xml:2:1-29:12
 		INJECTED from C:\Users\Eduardo\AndroidStudioProjects\buscaClinica\buscaClinica\app\src\main\AndroidManifest.xml
 	android:versionCode
 		INJECTED from C:\Users\Eduardo\AndroidStudioProjects\buscaClinica\buscaClinica\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Eduardo\AndroidStudioProjects\buscaClinica\buscaClinica\app\src\main\AndroidManifest.xml:2:1-27:12
+		ADDED from C:\Users\Eduardo\AndroidStudioProjects\buscaClinica\buscaClinica\app\src\main\AndroidManifest.xml:2:1-29:12
 		INJECTED from C:\Users\Eduardo\AndroidStudioProjects\buscaClinica\buscaClinica\app\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from C:\Users\Eduardo\AndroidStudioProjects\buscaClinica\buscaClinica\app\src\main\AndroidManifest.xml:2:11-69
 application
-ADDED from C:\Users\Eduardo\AndroidStudioProjects\buscaClinica\buscaClinica\app\src\main\AndroidManifest.xml:5:5-25:19
+ADDED from C:\Users\Eduardo\AndroidStudioProjects\buscaClinica\buscaClinica\app\src\main\AndroidManifest.xml:5:5-27:19
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Eduardo\.gradle\caches\transforms-2\files-2.1\2859e1870c9c4a16e73a1086874b9ab9\AndroidManifest.xml:9:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Eduardo\.gradle\caches\transforms-2\files-2.1\2859e1870c9c4a16e73a1086874b9ab9\AndroidManifest.xml:9:5-20
 MERGED from [androidx.core:core:1.0.2] C:\Users\Eduardo\.gradle\caches\transforms-2\files-2.1\887b260e22487fbb8aa5ec7216c76186\AndroidManifest.xml:22:5-89
@@ -72,31 +72,35 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Ed
 	android:theme
 		ADDED from C:\Users\Eduardo\AndroidStudioProjects\buscaClinica\buscaClinica\app\src\main\AndroidManifest.xml:11:13-44
 activity#com.projeto.buscaclinica.activity.Splash2s
-ADDED from C:\Users\Eduardo\AndroidStudioProjects\buscaClinica\buscaClinica\app\src\main\AndroidManifest.xml:12:9-18:20
+ADDED from C:\Users\Eduardo\AndroidStudioProjects\buscaClinica\buscaClinica\app\src\main\AndroidManifest.xml:12:9-20:20
 	android:name
 		ADDED from C:\Users\Eduardo\AndroidStudioProjects\buscaClinica\buscaClinica\app\src\main\AndroidManifest.xml:12:19-52
-intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Users\Eduardo\AndroidStudioProjects\buscaClinica\buscaClinica\app\src\main\AndroidManifest.xml:13:13-17:29
+intent-filter#action:name:android.intent.action.MAIN+action:name:android.intent.action.VIEW+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Eduardo\AndroidStudioProjects\buscaClinica\buscaClinica\app\src\main\AndroidManifest.xml:13:13-19:29
 action#android.intent.action.MAIN
 ADDED from C:\Users\Eduardo\AndroidStudioProjects\buscaClinica\buscaClinica\app\src\main\AndroidManifest.xml:14:17-68
 	android:name
 		ADDED from C:\Users\Eduardo\AndroidStudioProjects\buscaClinica\buscaClinica\app\src\main\AndroidManifest.xml:14:25-66
+action#android.intent.action.VIEW
+ADDED from C:\Users\Eduardo\AndroidStudioProjects\buscaClinica\buscaClinica\app\src\main\AndroidManifest.xml:15:17-68
+	android:name
+		ADDED from C:\Users\Eduardo\AndroidStudioProjects\buscaClinica\buscaClinica\app\src\main\AndroidManifest.xml:15:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\Eduardo\AndroidStudioProjects\buscaClinica\buscaClinica\app\src\main\AndroidManifest.xml:16:17-76
+ADDED from C:\Users\Eduardo\AndroidStudioProjects\buscaClinica\buscaClinica\app\src\main\AndroidManifest.xml:18:17-76
 	android:name
-		ADDED from C:\Users\Eduardo\AndroidStudioProjects\buscaClinica\buscaClinica\app\src\main\AndroidManifest.xml:16:27-74
+		ADDED from C:\Users\Eduardo\AndroidStudioProjects\buscaClinica\buscaClinica\app\src\main\AndroidManifest.xml:18:27-74
 activity#com.projeto.buscaclinica.activity.LoginActivity
-ADDED from C:\Users\Eduardo\AndroidStudioProjects\buscaClinica\buscaClinica\app\src\main\AndroidManifest.xml:19:9-20:20
-	android:name
-		ADDED from C:\Users\Eduardo\AndroidStudioProjects\buscaClinica\buscaClinica\app\src\main\AndroidManifest.xml:19:19-57
-activity#com.projeto.buscaclinica.activity.splashActivity
 ADDED from C:\Users\Eduardo\AndroidStudioProjects\buscaClinica\buscaClinica\app\src\main\AndroidManifest.xml:21:9-22:20
 	android:name
-		ADDED from C:\Users\Eduardo\AndroidStudioProjects\buscaClinica\buscaClinica\app\src\main\AndroidManifest.xml:21:19-58
-activity#com.projeto.buscaclinica.activity.MainActivity
+		ADDED from C:\Users\Eduardo\AndroidStudioProjects\buscaClinica\buscaClinica\app\src\main\AndroidManifest.xml:21:19-57
+activity#com.projeto.buscaclinica.activity.SplashActivity
 ADDED from C:\Users\Eduardo\AndroidStudioProjects\buscaClinica\buscaClinica\app\src\main\AndroidManifest.xml:23:9-24:20
 	android:name
-		ADDED from C:\Users\Eduardo\AndroidStudioProjects\buscaClinica\buscaClinica\app\src\main\AndroidManifest.xml:23:19-56
+		ADDED from C:\Users\Eduardo\AndroidStudioProjects\buscaClinica\buscaClinica\app\src\main\AndroidManifest.xml:23:19-58
+activity#com.projeto.buscaclinica.activity.MainActivity
+ADDED from C:\Users\Eduardo\AndroidStudioProjects\buscaClinica\buscaClinica\app\src\main\AndroidManifest.xml:25:9-26:20
+	android:name
+		ADDED from C:\Users\Eduardo\AndroidStudioProjects\buscaClinica\buscaClinica\app\src\main\AndroidManifest.xml:25:19-56
 uses-sdk
 INJECTED from C:\Users\Eduardo\AndroidStudioProjects\buscaClinica\buscaClinica\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\Users\Eduardo\AndroidStudioProjects\buscaClinica\buscaClinica\app\src\main\AndroidManifest.xml
