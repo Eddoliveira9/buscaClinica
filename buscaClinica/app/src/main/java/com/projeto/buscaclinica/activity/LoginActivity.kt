@@ -25,6 +25,12 @@ class LoginActivity : AppCompatActivity() {
                                             this@LoginActivity)}
 
         btn_cadastro.setOnClickListener{showCadastroActivity()}
+
+        txv_recuperar_senha.setOnClickListener { resetarSenha() }
+    }
+
+    private fun resetarSenha(){
+        startActivity(Intent(applicationContext, RecuperarSenhaActivity::class.java))
     }
 
     private fun showCadastroActivity(){
